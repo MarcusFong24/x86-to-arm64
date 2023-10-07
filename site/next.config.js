@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'X86 to Arm64',
     description: 'LavaFlows's X86 to Arm64 Registry',
-    icon: '/img/logo.svg',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxj0QF7T-XgaDdDnTgPadnXVfat9QdWCDt9eBq91HtXQ&s',
     listUrl: 'https://registry.kasmweb.com/',
     contactUrl: 'https://kasmweb.com/support',
   },
